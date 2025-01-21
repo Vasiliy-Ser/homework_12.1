@@ -30,8 +30,8 @@
 
 Сетевые службы:
 
-21/tcp   open  ftp         vsftpd 2.3.4 - Выполнение бэкдор-команд (vsftpd 2.3.4 - Backdoor Command Execution)
-22/tcp   open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0) - 
+21/tcp   open  ftp         vsftpd 2.3.4
+22/tcp   open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)  
 23/tcp   open  telnet      Linux telnetd
 25/tcp   open  smtp        Postfix smtpd
 53/tcp   open  domain      ISC BIND 9.4.2
